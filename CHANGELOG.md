@@ -6,7 +6,7 @@
 
 <p align="center">Changelog for <a href="https://www.nordtheme.com/ports/slack">Nord Slack</a> — An arctic, north-bluish clean and elegant <a href="https://slack.com" target="_blank">Slack</a> theme.</p>
 
-# 0.1.0
+# 0.2.0
 
 ![Release Date: 2019-08-06](https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2019-08-06&colorA=4c566a&colorB=88c0d0) [![Project Board](https://img.shields.io/static/v1.svg?style=flat-square&label=Project%20Board&message=0.1.0&logo=github&logoColor=eceff4&colorA=4c566a&colorB=88c0d0)](https://github.com/arcticicestudio/nord-sublime-text/projects/2) [![Milestone](https://img.shields.io/static/v1.svg?style=flat-square&label=Milestone&message=0.1.0&logo=github&logoColor=eceff4&colorA=4c566a&colorB=88c0d0)](https://github.com/arcticicestudio/nord-sublime-text/milestone/1)
 
