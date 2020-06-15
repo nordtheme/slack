@@ -27,7 +27,7 @@ Thanks to [Slack's simply shareable custom themes][slk-help-themes], _Nord Slack
 4. Copy Nord's color values from below and paste it into Slack's custom theme text field to install and automatically apply the custom theme.
 
 <div align="center"><p><strong>Copy and paste these values to share your custom theme with others:</strong></p></div>
-<p align="center"><code>#2E3440,#3B4252,#88C0D0,#2E3440,#3B4252,#D8DEE9,#A3BE8C,#81A1C1</code></p>
+<p align="center"><code>#2E3440,#3B4252,#88C0D0,#2E3440,#3B4252,#D8DEE9,#A3BE8C,#81A1C1,#2E3440,#D8DEE9</code></p>
 
 <p align="center"><a href="https://www.nordtheme.com/ports/slack" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/slack/slack-theme-config.png" alt="Screenshot showing the workspace preferences UI to install and activate custom themes"/></a></p>
 
