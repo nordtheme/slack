@@ -22,7 +22,7 @@ Thanks to [Slack's simply shareable custom themes][slk-help-themes], _Nord Slack
 
 1. [Sign in][slk-help-sign_in] to the Slack workspace you’d like to customize.
 2. [Open Slack](slack://open) and click on the workspace name to go to the **Preferences** or via <kbd>Ctrl</kbd>/<kbd>⌘</kbd>+<kbd>,</kbd>.
-3. Switch to the **Sidebar** section and scroll down to the text field in the **Custom Theme** section at the bottom.
+3. Switch to the **Themes** section and scroll down to the text field in the **Custom Theme** section at the bottom.
    - If the text field is not visible, click on the „Customize your theme and share it with others“ link to toggle it.
 4. Copy Nord's color values from below and paste it into Slack's custom theme text field to install and automatically apply the custom theme.
 
