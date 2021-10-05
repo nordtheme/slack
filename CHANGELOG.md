@@ -48,15 +48,15 @@ Please see the [corresponding issue in the Nord Docs repository][nord-docs#175] 
 
 ## Features
 
-Detailed information about features and install instructions can be found in the [README](https://github.com/arcticicestudio/nord-slack/blob/master/README.md#installation) and in the [project wiki](https://github.com/arcticicestudio/nord-slack/wiki).
+Detailed information about features and install instructions can be found in the [README](https://github.com/arcticicestudio/nord-slack/blob/main/README.md#installation) and in the [project wiki](https://github.com/arcticicestudio/nord-slack/wiki).
 
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-slack/master/assets/scrot-hero.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-slack/main/assets/scrot-hero.png"/></p>
 
-<p align="center"><strong>Menu- and item hovering</strong><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-slack/master/assets/scrcast-hovering.gif"/></p>
+<p align="center"><strong>Menu- and item hovering</strong><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-slack/main/assets/scrcast-hovering.gif"/></p>
 
 ❯ Defined the theme colors according to the [Nord Style Guidelines][gh-repo]. (@arcticicestudio, #1 in PR #2, b37cbde4)
 
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-slack/master/assets/scrot-definitions.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-slack/main/assets/scrot-definitions.png"/></p>
 
 <!--
 +------------------+
