@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.nordtheme.com/ports/slack" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/slack/repository-hero.svg?sanitize=true"/></a></p>
+<p align="center"><a href="https://www.nordtheme.com/ports/slack" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/slack/repository-hero.svg?sanitize=true"/></a></p>
 
 <p align="center"><a href="https://github.com/arcticicestudio/nord-slack/releases/latest" target="_blank"><img src="https://img.shields.io/github/release/arcticicestudio/nord-slack.svg?style=flat-square&label=Release&logo=github&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a> <a href="https://www.nordtheme.com/docs/ports/slack" target="_blank"><img src="https://img.shields.io/github/release/arcticicestudio/nord-slack.svg?style=flat-square&label=Docs&colorA=4c566a&colorB=88c0d0&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI%2BCiAgICA8cGF0aCBmaWxsPSIjZDhkZWU5IiBkPSJNMTMuNzQ2IDIuODEzYS42Ny42NyAwIDAgMC0uNTU5LS4xMzNMOCAzLjg0OGwtNS4xODgtMS4xOGEuNjY5LjY2OSAwIDAgMC0uNTcuMTMzLjY3Ny42NzcgMCAwIDAtLjI0Mi41MzF2OC4xMzNjLS4wMDguMzIuMjEuNTk4LjUyLjY2OGw1LjMzMiAxLjE5OWguMjk2bDUuMzMyLTEuMmEuNjY4LjY2OCAwIDAgMCAuNTItLjY2N1YzLjMzMmEuNjU5LjY1OSAwIDAgMC0uMjU0LS41MnpNMy4zMzIgNC4xNjhsNCAuODk4djYuNzY2bC00LS44OTh6bTkuMzM2IDYuNzY2bC00IC44OThWNS4wNjZsNC0uODk4em0wIDAiLz4KPC9zdmc%2BCg%3D%3D"/></a> <a href="https://github.com/arcticicestudio/nord-slack/blob/main/CHANGELOG.md" target="_blank"><img src="https://img.shields.io/github/release/arcticicestudio/nord-slack.svg?style=flat-square&label=Changelog&logo=github&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a></p>
 
@@ -8,7 +8,7 @@
 
 <p align="center">Designed for a fluent and clear workflow based on the <a href="https://www.nordtheme.com" target="_blank">Nord</a> color palette.</p>
 
-<p align="center"><a href="https://www.nordtheme.com/ports/slack" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/slack/overview.png"/></a></p>
+<p align="center"><a href="https://www.nordtheme.com/ports/slack" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/slack/overview.png"/></a></p>
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ Thanks to [Slack's simply shareable custom themes][slk-help-themes], _Nord Slack
 <div align="center"><p><strong>Copy and paste these values to share your custom theme with others:</strong></p></div>
 <p align="center"><code>#2E3440,#3B4252,#88C0D0,#2E3440,#3B4252,#D8DEE9,#A3BE8C,#81A1C1,#2E3440,#D8DEE9</code></p>
 
-<p align="center"><a href="https://www.nordtheme.com/ports/slack" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/slack/slack-theme-config.png" alt="Screenshot showing the workspace preferences UI to install and activate custom themes"/></a></p>
+<p align="center"><a href="https://www.nordtheme.com/ports/slack" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/slack/slack-theme-config.png" alt="Screenshot showing the workspace preferences UI to install and activate custom themes"/></a></p>
 
 See the official [Slack Help Center][slk-help] for more details and documentations.
 
@@ -37,7 +37,7 @@ See the official [Slack Help Center][slk-help] for more details and documentatio
 
 <div align="center"><p><strong>Small details with unobtrusive styles.</strong></p><p>The colors are matching Slack&apos;s animation and motion design while getting out of your way with a visually attractive appearance.</p></div>
 
-<p align="center"><a href="https://www.nordtheme.com/ports/slack#ui-elements"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/slack/ui-details-sidebar-hover.gif" width="40%"/></a></p>
+<p align="center"><a href="https://www.nordtheme.com/ports/slack#ui-elements"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/slack/ui-details-sidebar-hover.gif" width="40%"/></a></p>
 
 ## Contributing
 
@@ -49,7 +49,7 @@ Please take a moment to read Nord's full [contributing guide][nord-contrib-guide
 
 The guide also includes information about [minimal, complete, and verifiable examples][nord-contrib-guide-mcve] and other ways to contribute to the project like [improving existing issues][nord-contrib-guide-impr-issues] and [giving feedback on issues and pull requests][nord-contrib-guide-feedback].
 
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
 
 <p align="center">Copyright &copy; 2017-present <a href="https://www.arcticicestudio.com" target="_blank">Arctic Ice Studio</a> and <a href="https://www.svengreb.de" target="_blank">Sven Greb</a></p>
 
