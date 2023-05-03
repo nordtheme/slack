@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://www.nordtheme.com/ports/slack" target="_blank">
     <picture>
-      <source srcset="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/slack/repository-hero.svg?sanitize=true" width="100%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img srcset="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/slack/repository-hero.svg?sanitize=true" width="100%" />
+      <source srcset="https://raw.githubusercontent.com/nordtheme/web/main/assets/images/ports/slack/repository-hero.svg?sanitize=true" width="100%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img srcset="https://raw.githubusercontent.com/nordtheme/web/main/assets/images/ports/slack/repository-hero.svg?sanitize=true" width="100%" />
     </picture>
   </a>
 </p>
@@ -147,5 +147,5 @@ Detailed information about features and install instructions can be found in the
 
 <!-- v0.2.0 -->
 
-[nord-docs#175]: https://github.com/arcticicestudio/nord-docs/issues/175
+[nord-docs#175]: https://github.com/nordtheme/web/issues/175
 [nord#55]: https://github.com/nordtheme/nord/issues/55
